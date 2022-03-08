@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**EmilianoLlanas/EmilianoLlanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on indie videogame project
+- 🌱 I’m currently learning Vue.js
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Totally into dinousaurs and classic history
 
-Here are some ideas to get you started:
+### My github stats:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmilianoLlanas&count_private=true&show_icons=true&theme=radical
+)](https://github.com/EmilianoLlanas/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmilianoLlanas&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+
+[linkedin]: https://www.linkedin.com/in/emiliano-llanas/
+[mail]: mailto:emaciasllanas@gmail.com

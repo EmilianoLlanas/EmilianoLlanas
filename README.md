@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a dev in BBVA, in a data engineering project using Apache Spark and Scala
 - 🌱 I’m currently learning Unreal Engine
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Best Top Laner and smokes main in LATAM
+- ⚡ Fun fact about me: Best main Sett and Omen you ever saw
 
 ### My github stats:  
 

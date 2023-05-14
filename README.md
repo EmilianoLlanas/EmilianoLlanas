@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on indie videogame project
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working as a dev in BBVA, in a data engineering project using Apache Spark and Scala
+- 🌱 I’m currently learning Unreal Engine
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Totally into dinousaurs and classic history
+- ⚡ Fun fact: Best Top Laner and smokes main in LATAM
 
 ### My github stats:  
 
